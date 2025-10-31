@@ -1203,7 +1203,7 @@ async def stats_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     """Main function"""
-    if BOT_TOKEN == 'YOUR_BOT_TOKEN_HERE':
+    if BOT_TOKEN == '8483609319:AAGsjpT8Nwb51BKiXMQBRJmdkni3Chdiv14':
         logger.error("❌ BOT_TOKEN not set! Set environment variable BOT_TOKEN")
         return
     
